@@ -22,6 +22,12 @@ Pengembangan aplikasi profil dengan manajemen state yang lebih terstruktur.
 - **Fitur**: Manajemen data profil menggunakan ViewModel, sinkronisasi state antar komponen UI, dan implementasi arsitektur MVVM yang bersih.
 - **Teknologi**: Jetpack Compose, ViewModel, StateFlow/LiveData, Material Design 3.
 
+### 4. [NotesAppNavigation](./NotesAppNavigation) (Latihan dan Tugas Praktikum Minggu 5)
+**Topik: Jetpack Compose Navigation & State Management**
+Aplikasi catatan (Notes App) yang mendemonstrasikan sistem navigasi yang kompleks dan pengelolaan data dinamis (CRUD sederhana).
+- **Fitur**: Bottom Navigation, Dynamic Arguments, Create/Read/Update/Delete catatan, dan fitur Favorites.
+- **Teknologi**: Jetpack Compose Navigation, State Management (mutableStateListOf), Material Design 3.
+
 ---
 
 ## ⚙️ Cara Menjalankan
