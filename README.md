@@ -28,12 +28,18 @@ Aplikasi catatan (Notes App) yang mendemonstrasikan sistem navigasi yang komplek
 - **Fitur**: Bottom Navigation, Dynamic Arguments, Create/Read/Update/Delete catatan, dan fitur Favorites.
 - **Teknologi**: Jetpack Compose Navigation, State Management (mutableStateListOf), Material Design 3.
 
+### 5. [NewsReaderApp](./NewsReaderApp) (Tugas Praktikum Minggu 6)
+**Topik: Networking, Local Persistence (Room), dan Repository Pattern**
+Aplikasi pembaca berita Indonesia yang mendukung fitur offline caching dan performansi UI yang halus.
+- **Fitur**: Offline Caching (Room DB), Shimmer Loading Effect, Chrome Custom Tabs, dan Dark Mode.
+- **Teknologi**: Jetpack Compose, Ktor Client (Networking), Room Database, Repository Pattern, Coil (Image Loading).
+
 ---
 
 ## ⚙️ Cara Menjalankan
 1. Pastikan Anda memiliki **Android Studio** versi terbaru.
 2. Clone repository ini.
-3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `MyProfileApp`) sebagai proyek utama di Android Studio.
+3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `NewsReaderApp`) sebagai proyek utama di Android Studio.
 4. Tunggu proses **Gradle Sync** hingga selesai.
 5. Jalankan aplikasi menggunakan Emulator atau Perangkat Android fisik.
 
@@ -41,4 +47,3 @@ Aplikasi catatan (Notes App) yang mendemonstrasikan sistem navigasi yang komplek
 **Dibuat oleh:**
 - **Nama**: Nahli Saud Ramdani
 - **NIM**: 123140049
-
