@@ -41,17 +41,22 @@ CREATE TABLE noteEntity (
 
 ## Tampilan Aplikasi
 
-### Video Demo
-*(Silahkan masukkan link video demo 45 detik Anda di sini)*
+### Video Demonstrasi
+
 
 ### Screenshot Update (Minggu 7)
-| Home & Search | Settings (Dark Mode) |
-|---|---|
-| ![Notes](screenshot/Notes_Search.jpg) | ![Settings](screenshot/Settings_Dark.jpg) |
 
-| Favorites List | Add Note (Date/Time Picker) |
-|---|---|
-| ![Favorites](screenshot/Favorites_New.jpg) | ![Add](screenshot/Add_Picker.jpg) |
+| Home Screen | Detail Notes | Add Notes |
+|:---:|:---:|:---:|
+| ![Home](screenshot/Home.jpg) | ![Detail](screenshot/Detail%20Notes.jpg) | ![Add](screenshot/AddNotes.jpg) |
+
+| Edit Notes | Settings | Dark Favorites |
+|:---:|:---:|:---:|
+| ![Edit](screenshot/EditNotes.jpg) | ![Settings](screenshot/Settings.jpg) | ![DarkFavorite](screenshot/DarkFavorite.jpg) |
+
+| Profile |
+|:---:|
+| ![Profile](screenshot/Profile.jpg) |
 
 ## Struktur Layar
 - **Home**: Daftar catatan dengan fitur pencarian dan toggle favorit.
