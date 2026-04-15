@@ -34,12 +34,18 @@ Aplikasi pembaca berita Indonesia yang mendukung fitur offline caching dan perfo
 - **Fitur**: Offline Caching (Room DB), Shimmer Loading Effect, Chrome Custom Tabs, dan Dark Mode.
 - **Teknologi**: Jetpack Compose, Ktor Client (Networking), Room Database, Repository Pattern, Coil (Image Loading).
 
+### 6. [NotesAppNavigationV2](./NotesAppNavigationV2) (Tugas Praktikum Minggu 7)
+**Topik: Local Database (SQLDelight), DataStore, & Advanced UI States**
+Versi lanjutan dari Notes App dengan persistensi data yang kuat dan fitur pencarian/sortir yang dioptimasi.
+- **Fitur**: Offline-First dengan SQLDelight, Theme Persistence (DataStore), Real-time Search, Sortir catatan, dan Date/Time Picker.
+- **Teknologi**: SQLDelight (SQLite), Jetpack DataStore, Ktor Client (Sync), Material 3, MVVM Architecture.
+
 ---
 
 ## ⚙️ Cara Menjalankan
 1. Pastikan Anda memiliki **Android Studio** versi terbaru.
 2. Clone repository ini.
-3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `NewsReaderApp`) sebagai proyek utama di Android Studio.
+3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `NotesAppNavigationV2`) sebagai proyek utama di Android Studio.
 4. Tunggu proses **Gradle Sync** hingga selesai.
 5. Jalankan aplikasi menggunakan Emulator atau Perangkat Android fisik.
 
