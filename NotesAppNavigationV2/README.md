@@ -41,6 +41,9 @@ CREATE TABLE noteEntity (
 
 ## Tampilan Aplikasi
 
+### Video Demonstrasi
+
+
 ### Screenshot Update (Minggu 7)
 
 | Home Screen | Detail Notes | Add Notes |
