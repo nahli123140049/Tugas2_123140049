@@ -23,7 +23,7 @@ Project ini adalah aplikasi catatan modern yang dibangun menggunakan **Jetpack C
 ## Tampilan Aplikasi
 
 ### Video Demo
-
+https://github.com/user-attachments/assets/6300f394-8208-40b1-a16c-41ffd449e1d6
 
 ### Screenshot
 | Home / Notes | Detail Note |
