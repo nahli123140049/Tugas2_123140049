@@ -40,12 +40,18 @@ Versi lanjutan dari Notes App dengan persistensi data yang kuat dan fitur pencar
 - **Fitur**: Offline-First dengan SQLDelight, Theme Persistence (DataStore), Real-time Search, Sortir catatan, dan Date/Time Picker.
 - **Teknologi**: SQLDelight (SQLite), Jetpack DataStore, Ktor Client (Sync), Material 3, MVVM Architecture.
 
+### 7. [NotesAppNavigationV3](./NotesAppNavigationV3) (Tugas Praktikum Minggu 8)
+**Topik: Dependency Injection (Koin) & Platform Specific (Expect/Actual)**
+Upgrade besar pada Notes App dengan implementasi arsitektur yang modular dan fitur hardware-aware.
+- **Fitur**: Koin DI Setup, Network Monitoring (Online/Offline indicator), Device Info & Battery Status (Expect/Actual pattern).
+- **Teknologi**: Koin DI, Expect/Actual Pattern, SQLDelight, DataStore, Jetpack Compose.
+
 ---
 
 ## ⚙️ Cara Menjalankan
 1. Pastikan Anda memiliki **Android Studio** versi terbaru.
 2. Clone repository ini.
-3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `NotesAppNavigationV2`) sebagai proyek utama di Android Studio.
+3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `NotesAppNavigationV3`) sebagai proyek utama di Android Studio.
 4. Tunggu proses **Gradle Sync** hingga selesai.
 5. Jalankan aplikasi menggunakan Emulator atau Perangkat Android fisik.
 
