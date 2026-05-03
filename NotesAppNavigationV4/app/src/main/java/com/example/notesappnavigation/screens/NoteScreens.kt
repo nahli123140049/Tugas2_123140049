@@ -571,11 +571,23 @@ private fun AiActionButtons(
 ) {
     val isLoading = aiState is AiState.Loading
     Column(modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp)) {
-        Text(
-            "AI Tools",
-            style = MaterialTheme.typography.labelSmall,
-            color = MaterialTheme.colorScheme.primary
-        )
+        Row(
+            verticalAlignment = Alignment.CenterVertically,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
+            Text(
+                "AI Tools",
+                style = MaterialTheme.typography.labelSmall,
+                color = MaterialTheme.colorScheme.primary
+            )
+            if (isLoading) {
+                CircularProgressIndicator(
+                    modifier = Modifier.size(12.dp),
+                    strokeWidth = 2.dp,
+                    color = MaterialTheme.colorScheme.primary
+                )
+            }
+        }
         Spacer(modifier = Modifier.height(4.dp))
         Row(
             modifier = Modifier.fillMaxWidth(),
@@ -586,8 +598,7 @@ private fun AiActionButtons(
                 enabled = !isLoading && content.isNotBlank(),
                 modifier = Modifier.weight(1f)
             ) {
-                if (isLoading) CircularProgressIndicator(modifier = Modifier.size(14.dp), strokeWidth = 2.dp)
-                else Text("Summarize", style = MaterialTheme.typography.labelSmall)
+                Text("Summarize", style = MaterialTheme.typography.labelSmall)
             }
             OutlinedButton(
                 onClick = { onRewrite(content) },
