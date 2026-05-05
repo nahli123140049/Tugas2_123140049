@@ -13,7 +13,7 @@ Aplikasi simulasi berita yang mendemonstrasikan pengolahan data asinkron secara 
 ### 2. [MyProfileApp](./MyProfileApp) (Tugas 3)
 **Topik: Compose Multiplatform Basics**
 Aplikasi profil pribadi sederhana yang dibangun menggunakan framework Compose Multiplatform.
-- **Fitur**: Menampilkan informasi profil, foto, dan integrasi UI dasar.
+- **Fitur**: Menampilkan informasi profil, foto, and integrasi UI dasar.
 - **Teknologi**: Compose Multiplatform, Kotlin, Material Design 3.
 
 ### 3. [MyProfileAppV2](./MyProfileAppV2) (Tugas 4)
@@ -52,12 +52,18 @@ Aplikasi catatan cerdas "MY NOTES" yang mengintegrasikan kecerdasan buatan untuk
 - **Fitur**: AI Translation (Gemini API), CRUD Catatan, Favorites, Reminder, Real-time Connectivity & Battery Status.
 - **Teknologi**: Gemini AI SDK, Kotlin Multiplatform, SQLDelight, Koin DI, Ktor, Compose Multiplatform.
 
+### 9. [NotesAppNavigationV4](./NotesAppNavigationV4) (Tugas Praktikum Minggu 10)
+**Topik: Testing & Dependency Injection (Koin)**
+Aplikasi "Pocketwise" yang mengimplementasikan standar arsitektur modern dengan pengujian otomatis (Unit Testing & UI Testing).
+- **Fitur**: Automated Testing (MockK & Compose Test Rule), Koin DI, SQLDelight, dan Real-time Device Monitoring.
+- **Teknologi**: Koin DI, SQLDelight, MockK, Jetpack Compose Testing, StateFlow.
+
 ---
 
 ## ⚙️ Cara Menjalankan
 1. Pastikan Anda memiliki **Android Studio** versi terbaru.
 2. Clone repository ini.
-3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `Praktikum-PAM-week9`) sebagai proyek utama di Android Studio.
+3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `NotesAppNavigationV4`) sebagai proyek utama di Android Studio.
 4. Tunggu proses **Gradle Sync** hingga selesai.
 5. Jalankan aplikasi menggunakan Emulator atau Perangkat Android fisik.
 
