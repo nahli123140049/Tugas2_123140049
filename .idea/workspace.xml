@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5e9d041-fcd0-45a5-8eb6-77e637279249" name="Changes" comment="Fix Photo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotesAppNavigationV3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
