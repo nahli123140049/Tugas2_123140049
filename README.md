@@ -46,12 +46,18 @@ Upgrade besar pada Notes App dengan implementasi arsitektur yang modular dan fit
 - **Fitur**: Koin DI Setup, Network Monitoring (Online/Offline indicator), Device Info & Battery Status (Expect/Actual pattern).
 - **Teknologi**: Koin DI, Expect/Actual Pattern, SQLDelight, DataStore, Jetpack Compose.
 
+### 8. [Praktikum-PAM-week9](./Praktikum-PAM-week9) (Tugas Praktikum Minggu 9)
+**Topik: AI Integration (Gemini) & Kotlin Multiplatform (KMP)**
+Aplikasi catatan cerdas "MY NOTES" yang mengintegrasikan kecerdasan buatan untuk fitur produktivitas tingkat lanjut.
+- **Fitur**: AI Translation (Gemini API), CRUD Catatan, Favorites, Reminder, Real-time Connectivity & Battery Status.
+- **Teknologi**: Gemini AI SDK, Kotlin Multiplatform, SQLDelight, Koin DI, Ktor, Compose Multiplatform.
+
 ---
 
 ## ⚙️ Cara Menjalankan
 1. Pastikan Anda memiliki **Android Studio** versi terbaru.
 2. Clone repository ini.
-3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `NotesAppNavigationV3`) sebagai proyek utama di Android Studio.
+3. Untuk menjalankan salah satu tugas, buka folder tugas yang spesifik (misal: `Praktikum-PAM-week9`) sebagai proyek utama di Android Studio.
 4. Tunggu proses **Gradle Sync** hingga selesai.
 5. Jalankan aplikasi menggunakan Emulator atau Perangkat Android fisik.
 
