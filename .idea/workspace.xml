@@ -4,7 +4,83 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5e9d041-fcd0-45a5-8eb6-77e637279249" name="Changes" comment="Fix Photo" />
+    <list default="true" id="e5e9d041-fcd0-45a5-8eb6-77e637279249" name="Changes" comment="Fix Photo">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/kotlin/com/rapi/pocketwise/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/kotlin/com/rapi/pocketwise/Platform.android.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/androidMain/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/composeResources/drawable/compose-multiplatform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/NoteAppsNavigationV4/App.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/NoteAppsNavigationV4/Greeting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/NoteAppsNavigationV4/Platform.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/NoteAppsNavigationV4/data/model/Expense.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/NoteAppsNavigationV4/data/model/GeminiModels.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/NoteAppsNavigationV4/data/model/Note.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/App.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/Greeting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/Platform.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/data/model/Expense.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/data/model/FinanceSummary.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/data/model/GeminiModels.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/data/model/Note.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/data/remote/GeminiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/data/repository/FinanceRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/data/repository/FinanceRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/presentation/PocketWiseScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/presentation/PocketWiseUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/presentation/PocketWiseViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonMain/kotlin/com/rapi/pocketwise/utils/MoneyFormatter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/commonTest/kotlin/com/rapi/pocketwise/ComposeAppCommonTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/iosMain/kotlin/com/rapi/pocketwise/MainViewController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/composeApp/src/iosMain/kotlin/com/rapi/pocketwise/Platform.ios.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/Configuration/Config.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp/ContentView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/iosApp/iosApp/iOSApp.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesAppNavigationV4/settings.gradle.kts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,22 +128,22 @@
     &quot;assignee&quot;: &quot;nahli123140049&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nahli123140049/Tugas2_123140049.git",
-    "accountId": "35d5599e-bc15-4176-bcfe-e971fb4ab0a2"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nahli123140049/Tugas2_123140049.git&quot;,
+    &quot;accountId&quot;: &quot;35d5599e-bc15-4176-bcfe-e971fb4ab0a2&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "nahli123140049",
-    "repository": "Tugas2_123140049"
+    &quot;owner&quot;: &quot;nahli123140049&quot;,
+    &quot;repository&quot;: &quot;Tugas2_123140049&quot;
   }
-}]]></component>
+}</component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\shavana\.gradle\wrapper\dists\gradle-9.2.1-bin\2t0n5ozlw9xmuyvbp7dnzaxug\gradle-9.2.1" javaHome="D:\Android\Android Studio\jbr" gradleVersion="9.2.1" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -88,9 +164,9 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "#4 on main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/AndroidStudioProjects/tugas2_1231400492",
+    "last_opened_file_path": "D:/Project Nakli/PAM/Tugas2_123140049",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
