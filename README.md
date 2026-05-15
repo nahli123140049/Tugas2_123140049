@@ -60,7 +60,7 @@ Aplikasi catatan cerdas "MY NOTES" yang mengintegrasikan kecerdasan buatan untuk
 
 ### 10. [NotesAppNavigationV4](./NotesAppNavigationV4) (Tugas Praktikum Minggu 10)
 **Topik: Testing & Dependency Injection (Koin)**
-Aplikasi "Pocketwise" yang mengimplementasikan standar arsitektur modern dengan pengujian otomatis (Unit Testing & UI Testing).
+Aplikasi "NoteApp" yang mengimplementasikan standar arsitektur modern dengan pengujian otomatis (Unit Testing & UI Testing).
 - **Fitur**: Automated Testing (MockK & Compose Test Rule), Koin DI, SQLDelight, dan Real-time Device Monitoring.
 - **Teknologi**: Koin DI, SQLDelight, MockK, Jetpack Compose Testing, StateFlow.
 
