@@ -60,8 +60,7 @@ graph TD
 ---
 
 ## 🎥 Video Demo
-*(Menunjukkan fungsionalitas aplikasi dan proses running test)*
-Link Video: [YouTube / Google Drive Link](URL_VIDEO_DEMO)
+https://github.com/user-attachments/assets/af8590a8-ea2b-4b2d-9f4c-e84dc05a5e24
 
 ---
 **Identitas Mahasiswa:**
