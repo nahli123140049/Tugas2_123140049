@@ -1,6 +1,6 @@
 #NotesAppNavigation - Tugas Praktikum Minggu 10 📝🧪
 
-Aplikasi **Pocketwise** adalah aplikasi manajemen catatan berbasis Android yang mengimplementasikan standar arsitektur modern dengan **Dependency Injection**, **Reactive Programming**, dan **Automated Testing**.
+Aplikasi **NoteAppNavigaton** adalah aplikasi manajemen catatan berbasis Android yang mengimplementasikan standar arsitektur modern dengan **Dependency Injection**, **Reactive Programming**, dan **Automated Testing**.
 
 ---
 
